@@ -1,0 +1,14 @@
+[href$=".io"]:hover{
+  color: red;
+
+
+}
+[href$=".com"]:hover{
+  color: green;
+}
+[href$=".abc"]:hover{
+  color: yellow;
+}
+span:hover{
+  color: green;
+}
